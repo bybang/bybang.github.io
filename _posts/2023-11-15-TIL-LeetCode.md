@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "[LeetCode] TIL LeetCode: 27, 26"
-categories: codingTest
-tag: [codingTest, LeetCode]
+categories: coding_test
+tag: [coding_test, LeetCode]
 toc: true
 published: true
 ---

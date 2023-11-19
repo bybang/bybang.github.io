@@ -20,9 +20,9 @@ main:
 categories:
   - title: "Python"
     url: /categories/python/
-  - title: "Categories2"
-    url: /categories/categories2/
-  - title: "Categories3"
-    url: /categories/categories3/
-  - title: "Categories4"
-    url: /categories/categories4/
+  - title: "Coding_test"
+    url: /categories/coding_test/
+  - title: "TIL"
+    url: /categories/TIL/
+  - title: "Frontend"
+    url: /categories/frontend/

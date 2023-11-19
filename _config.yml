@@ -100,7 +100,7 @@ analytics:
 # Site Author
 author:
   name: "Joshua Bang"
-  avatar: "/assets/images/meee.png" # 블로그 프로필 사진
+  avatar: "/assets/images/profile_pic.png" # 블로그 프로필 사진
   # bio: "**Develop** myself and career"
   # location: "Canada"
   # email: "youremailhere@xxxxxx.com"

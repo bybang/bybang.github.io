@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "[LeetCode] Daily LeetCode: 1827, 977"
-categories: codingTest
-tag: [codingTest, LeetCode]
+categories: coding_test
+tag: [coding_test, LeetCode]
 toc: true
 published: true
 ---
