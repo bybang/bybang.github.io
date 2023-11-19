@@ -1,0 +1,115 @@
+---
+layout: single
+title: "[Java] TIL Java BoostCourse - DBMS"
+categories: Java
+tag: [Backend, DB, DBMS, TIL]
+toc: true
+published: false
+---
+
+![](https://velog.velcdn.com/images/devbang/post/ea2cc574-a606-4c77-adcc-f062685464a0/image.png)
+
+# Naver BoostCourse 001
+
+### 네이버 부스트코스 1일차
+
+> 네이버 부스트코스 - [웹 백엔드](https://m.boostcourse.org/web326/lectures/42126) 과정
+
+# 🧩 What I Should Learn?
+
+- DB - Database
+- DBMS - Database Management System
+- Pros and cons of DBMS
+
+# 🎯 What I learned today
+
+## Database
+
+### Definition of Database
+
+- Organized collection of sturctured information(data), typically stored electronically in a computer system - Oracle
+- 여러 응용 시스템들의 통합된 정보들을 저장하여 운영할 수 있는 공용 데이터의 묶음 - TTA(Telecommunications Technology Association - KOR)
+
+### Features of Database
+
+In Korea, TTA define DB's features as follow:
+
+- **Real-time Accessability**
+  - 사용자의 요구에 즉각적인 처리와 응답
+- **Continuous Evoulution**
+  - DB의 상태는 동적. 새로운 데이터의 삽입, 삭제, 갱신을 통해 최신의 데이터를 유지 (정확한 값을 유지하려고)
+- **Concurrent Sharing**
+  - 사용자마다 서로 다른 목적으로 사용하므로, 다수의 사용자가 동시에 같은 데이터에 접근 및 이용
+- **Content Reference**
+  - DB에 있는 데이터 참조시 데이터 레코드의 주소나 위치가 아닌 사용자가 요구하는 데이터 내용으로 검색
+
+## Database Management System(=DBMS)
+
+### Definition of DBMS
+
+`DBMS` is a software that manages the database. Several software systems can access the data simultaneously to store, retrieve and run queries on data.
+
+Database management system is essentially nothing more than a computerized data-keeping system.
+
+Users of DBMS are given facilities to perform several kinds of operations on such a system for either manipulation of the data in the database.
+
+### Features of DBMS
+
+- **Data definition** - Creation, modification, and removal of definitions that define the organization of the data
+- **Update** - Insertion, modification, and deletion of the actual data
+- **Retrieval** - Providing information in a form directly usable or for further processing by other applications
+- **Administration** - Registering and monitoring users, maintaining data integrity, concurrency control and much more
+
+In Korea, we define three essential three features of DBMS as follow:
+
+- **Data definition** - 데이터베이스의 논리적, 물리적 구조를 정의
+- **Data manipulation** - 데이터를 검색, 삭제, 갱신, 삽입하는 기능
+- **Data control** - 데이터베이스의 내용 정확성과 안전성을 유지하도록 제어
+
+There are many DBMS out in the market, and the famous ones are IBM DB2, MySQL, Microsoft SQL Server, and Oracle.
+
+## Pros and cons of DBMS
+
+### Advantages
+
+- Improved data sharing
+- Data inegration
+- Data security
+- Data consistency
+- Data integrity
+
+### Disadvantages
+
+- High operating cost
+- Skilled staff needed due to it's data processing and system vulnerabillities
+- Partial database loss can halt the entire system
+- Complex management of backup and recovery
+
+# 📌 Takeaway
+
+# 💻 Solution
+
+## Q) Explain DB and DBMS to a person that is not developer
+
+### Answer
+
+Think of Database as a messed
+
+# 🔖 Review
+
+```python
+연결된 문자열을 한 글자씩 분리해 입력 받고 싶다면
+matrix = [list(input()) for _ in range(N)]
+
+방문 체크 및 연결 요소의 길이를 위한 리스트 set()으로 만들어주기
+visited = set()
+
+방문 배열에 .add() .append()를 할 때는 하나의 정보만 받으므로 튜플 처리
+visited.add((x, y))
+visited.append((nx, ny))
+
+변경된 행렬은 전부 탐색할 필요 없이 row만 탐색해주면서 .join()을 통해 리스트
+한 단어로 만들어서 프린트 해주기
+for row in matrix:
+    print("".join(row))
+```
