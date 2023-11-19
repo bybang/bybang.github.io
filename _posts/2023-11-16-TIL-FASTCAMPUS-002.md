@@ -4,7 +4,7 @@ title: "[Frontend] TIL Frontend project - Dive into Web"
 categories: Frontend
 tag: [Frontend, HTML, CSS, JavaScript, TIL]
 toc: true
-published: true
+published: false
 ---
 
 ![](https://velog.velcdn.com/images/devbang/post/af7f72ea-d3e6-4cb3-b98d-a9fb68176eea/image.png)

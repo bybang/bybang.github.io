@@ -1,8 +1,10 @@
 ---
-title: "Hi all! I'm OOOOOO👋🏻"
+title: "Hello all! I'm Joshua Bang👋🏻"
 permalink: /about/
 layout: single
 comments: false
 ---
 
-본인 소개 여기에 입력
+# "Be a better version of yourself."
+
+Hi, this is Joshua Bang, I'm learning everyday and practice to explain my understanding to someone else.

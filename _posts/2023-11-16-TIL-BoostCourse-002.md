@@ -4,7 +4,7 @@ title: "[Fullstack] TIL Naver BoostCourse - Understand Web development - FE/BE 0
 categories: Fullstack
 tag: [Backend, Web development, Frontend, TIL]
 toc: true
-published: true
+published: falss
 ---
 
 ![](https://velog.velcdn.com/images/devbang/post/ea2cc574-a606-4c77-adcc-f062685464a0/image.png)

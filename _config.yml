@@ -13,7 +13,7 @@
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 
-minimal_mistakes_skin: "dirt" # "default" "air", "aqua", ...
+minimal_mistakes_skin: "plum" # "default" "air", "aqua", ...
 
 # Site Settings
 locale: "en_US"
@@ -101,26 +101,26 @@ analytics:
 author:
   name: "Joshua Bang"
   avatar: "/assets/images/meee.png" # 블로그 프로필 사진
-  bio: "**Develop** myself and career"
-  location: "Canada"
+  # bio: "**Develop** myself and career"
+  # location: "Canada"
   # email: "youremailhere@xxxxxx.com"
 
-  links: # 사이트 링크
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:joshuabang26@gmail.com"
-#     - label: "Website"
-#       icon: "fas fa-fw fa-link"
-#       # url: "https://your-website.com"
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       # url: "https://twitter.com/"
-#     - label: "Facebook"
-#       icon: "fab fa-fw fa-facebook-square"
-#       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/bybang"
+  links:
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "mailto:joshuabang26@gmail.com"
+    #     - label: "Website"
+    #       icon: "fas fa-fw fa-link"
+    #       # url: "https://your-website.com"
+    #     - label: "Twitter"
+    #       icon: "fab fa-fw fa-twitter-square"
+    #       # url: "https://twitter.com/"
+    #     - label: "Facebook"
+    #       icon: "fab fa-fw fa-facebook-square"
+    #       # url: "https://facebook.com/"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/bybang"
 #     - label: "Instagram"
 #       icon: "fab fa-fw fa-instagram"
 #       url: "https://www.instagram.com/"
