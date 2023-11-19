@@ -1,8 +1,12 @@
 ---
 layout: single
 title: "[LeetCode] TIL LeetCode: 1346"
+
 categories: coding_test
-tag: [coding_test, LeetCode]
+tag: [coding_test, LeetCode, TIL]
+
+permalink: /categories/coding_test/
+
 toc: true
 published: true
 ---

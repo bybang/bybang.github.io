@@ -3,6 +3,8 @@ layout: single
 title: "[Fullstack] TIL Naver BoostCourse - Understand Web development - FE/BE"
 categories: Fullstack
 tag: [Backend, Web development, Frontend, TIL]
+permalink: /categories/TIL/
+
 toc: true
 published: true
 ---

@@ -1,8 +1,12 @@
 ---
 layout: single
 title: "[LeetCode] Daily LeetCode: 1221"
+
 categories: coding_test
 tag: [coding_test, LeetCode]
+
+permalink: /categories/coding_test/
+
 toc: true
 published: true
 ---

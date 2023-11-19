@@ -3,6 +3,7 @@ layout: single
 title: "[Frontend] TIL Frontend project - HTML/CSS, JavaScript"
 categories: Frontend
 tag: [Frontend, HTML, CSS, JavaScript, TIL]
+permalink: /categories/frontend/
 toc: true
 published: true
 ---
