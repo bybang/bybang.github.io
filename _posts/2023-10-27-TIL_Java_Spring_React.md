@@ -1,9 +1,12 @@
 ---
 layout: single
 title: "[Java] TIL Java Spring Boot - Movie Review Site 002"
+
 categories: TIL
 tag: [Java, Spring Boot, TIL]
-permalink: /categories/TIL/
+
+permalink: /TIL/Java_Spring_React_02
+
 toc: true
 published: true
 ---

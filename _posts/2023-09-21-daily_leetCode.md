@@ -2,10 +2,10 @@
 layout: single
 title: "[LeetCode] Daily LeetCode: 2656"
 
-categories: coding_test
+categories: Coding_test
 tag: [coding_test, LeetCode]
 
-permalink: /categories/coding_test/
+permalink: /coding_test/23-09-21-daily_leetCode
 
 toc: true
 published: true

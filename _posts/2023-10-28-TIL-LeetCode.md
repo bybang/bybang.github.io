@@ -2,10 +2,10 @@
 layout: single
 title: "[LeetCode] TIL LeetCode: 1089"
 
-categories: coding_test
+categories: Coding_test
 tag: [coding_test, LeetCode, TIL]
 
-permalink: /categories/coding_test/
+permalink: /coding_test/23-10-28-TIL-LeetCode
 
 toc: true
 published: true

@@ -1,9 +1,12 @@
 ---
 layout: single
 title: "[Frontend] TIL Frontend project - HTML/CSS, JavaScript"
+
 categories: Frontend
 tag: [Frontend, HTML, CSS, JavaScript, TIL]
-permalink: /categories/frontend/
+
+permalink: /frontend/TIL-FASTCAMPUS-001
+
 toc: true
 published: true
 ---

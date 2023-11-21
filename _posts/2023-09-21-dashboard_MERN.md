@@ -1,10 +1,14 @@
 ---
 layout: single
 title: "[MERN] dashboard clone coding practice 02"
-categories: coding_practice
+
+categories: TIL
 tag: [coding_practice, JavaScript, MERN]
-permalink: /categories/TIL/
+
+permalink: /TIL/dashboard_MERN_01
+
 toc: true
+published: false
 ---
 
 # 02. MERN Dashboard Clone coding
