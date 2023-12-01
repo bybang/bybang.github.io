@@ -8,7 +8,7 @@ tag: [Backend, Web development, Frontend, TIL]
 permalink: /TIL/boostcourse_002
 
 toc: true
-published: false
+published: true
 ---
 
 ![](https://velog.velcdn.com/images/devbang/post/ea2cc574-a606-4c77-adcc-f062685464a0/image.png)
@@ -28,11 +28,11 @@ published: false
 
 ## Programming languages
 
-In the 10-year cycle, 40~50 programming languages are evolving. As a developer, we should choose a language for the desired product that we wish to develop. So, what is suitable for web development?
+In the 10-year cycle, 40~50 programming languages are evolving. As developers, we should choose a language for the desired product that we wish to develop. So, what is suitable for web development?
 
 ### Low-level languages
 
-As we know, the computer has a switch or transistor to communicate. The computer gets electricity and turns on and off the transistor, representing 0 and 1.
+As we know, the computer has a switch or transistor to communicate. The computer gets electricity and turns the transistor on and off, representing 0 and 1.
 
 The computer uses a Binary system, and the low-level language means the language that the computer understands. If the developer writes a code with only binary code, which we call a **machine language**.
 
@@ -48,18 +48,18 @@ Nowadays, it is difficult to find a program developed in machine or assembly lan
 
 Essentially, high-level languages are more human-friendly languages. As the hardware specs increased gradually, the compiler was upgraded.
 
-We can now develop in a readable and human grammar way with these high compiler specs.
+With these high compiler specs, we can now develop in a readable and human grammar way.
 
 We have many high-level languages, including famous languages such as C, Swift, Kotlin, Java, Python and JavaScript.
 
-Less famous languages include Fortran for scientific calculation, Erlang for OTP(Open Telecom Platform) or Lisp.
+Less famous languages include Fortran for scientific calculation, Erlang for OTP(Open Telecom Platform), and Lisp.
 
 ### Most popular languages in web development
 
 - Python: Recommended for beginner developers due to its extremely human-friendly syntax. It is often used in data science and machine learning these days.
 - PHP: Still one of the most popular languages in web development. The research from W3Techs shows that 77% of websites used PHP in 2023.
 - JavaScript: Rules the current web market. From W3Techs research, 98.7% of websites used JavaScript as of 2023.
-- Java: Dominates the back-end development, especially for enterprise software. The big projects or company still uses Java for their back-end.
+- Java: Dominates the back-end development, especially for enterprise software. Big projects or companies still use Java for their back-end.
 
 # 📌 Takeaway
 
