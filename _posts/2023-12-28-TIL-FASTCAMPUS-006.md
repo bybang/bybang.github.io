@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "[Frontend] TIL Frontend project - CSS Properties"
+title: "[Frontend] TIL Frontend project - Overview of CSS part 2"
 
 categories: Frontend
 tag: [Frontend, HTML, CSS, JavaScript, TIL]
 
-permalink: /frontend/TIL-FASTCAMPUS-007
+permalink: /frontend/TIL-FASTCAMPUS-006
 
 toc: true
 published: true
@@ -243,7 +243,7 @@ CSS declarations marked as important override any other declarations within the 
 
 Technically, the `!important` has nothing to do with specificity; it interacts directly with specificity and the cascade.
 
-If declarations from the same origin, and cascade layer conflict and one property value have the `!important` flag set, the important declaration is applied no matter the specificity.
+If declarations from the same origin, cascade layer conflict and one property value have the `!important` flag set, the important declaration is applied no matter the specificity.
 
 For more detailed information about specificity, check out [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity) document.
 
